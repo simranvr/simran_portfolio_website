@@ -1,2 +1,2 @@
 # simran_portfolio_website
-i develp this portifolio website using HTML,CSS .
+i develp this portifolio  using HTML,CSS .
